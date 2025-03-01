@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
  It systematically applies engineering principles and tools for developing and maintaining high-quality software systems. 
- It plays a huge role in the technology industry by enabling the creation of software applications and systems that power the aspects of modern life, e.g. communication, commerce, entertainment, and the healthcare industry.
+ It plays a huge role in the technology industry by enabling the creation of software applications and systems that power the aspects of modern life, e.g., communication, commerce, entertainment, and the healthcare industry.
    
 Identify and describe at least three key milestones in the evolution of software engineering.
  Mastering Complexity
@@ -40,7 +40,7 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
  Integrated Development Environment: Software suites that provide comprehensive tools for writing, 
-  debugging, and testing code
+  debugging and testing code
      Programming languages have rules for how statements must be structured. Because an IDE knows 
       these rules, it contains many intelligent features for automatically writing or editing the 
       source code.
