@@ -33,6 +33,7 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
       Testing is continuous and done after each iteration
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
  Software Developer: Responsible for writing code and implementing software solutions.
  Quality Assurance Engineer: Ensures software quality by designing and executing test plans.
  Project Manager: Oversees the planning, execution, and delivery of software projects.
@@ -41,41 +42,42 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
  Integrated Development Environment: Software suites that provide comprehensive tools for writing, 
   debugging and testing code
-     Programming languages have rules for how statements must be structured. Because an IDE knows 
+    - Programming languages have rules for how statements must be structured. Because an IDE knows 
       these rules, it contains many intelligent features for automatically writing or editing the 
       source code.
-     IDEs increase programmer productivity by performing repeatable development tasks that are 
+    - IDEs increase programmer productivity by performing repeatable development tasks that are 
       typically part of every code change
-      e.g
+    -  e.g
        Visual Studio
        Eclipse
        IntelliJ IDEA
      
- Version Control Systems(VCS): Software tools for tracking changes to source code and
+- Version Control Systems(VCS): Software tools for tracking changes to source code and
   coordinating work among team members.
-    Collaboration: Enables multiple developers to work on the same codebase without conflicts.
+   - Collaboration: Enables multiple developers to work on the same codebase without conflicts.
     Change Tracking: Records detailed history of changes, allowing easy analysis of each 
      modification.
-     e.g
+    - e.g
         Git
         Subversion
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
- Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
+- Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
  Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
- Limited Infrastructure - limited high-performance software engineering tools and computing platforms and inefficient data storage architectures.
-   Solutions:
+- Limited Infrastructure - limited high-performance software engineering tools and computing platforms and inefficient data storage architectures.
+ -  Solutions:
        Effective communication
        Agile Methodologies
        Prioritization of tasks
        Regular reassessment of project goals and timelines.
         
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
- Unit Testing: Testing individual components or modules of software.
+
+- Unit Testing: Testing individual components or modules of software.
  Integration Testing: Testing interactions between different components or subsystems.
- System Testing: Testing the software against the  software system as a whole.
+- System Testing: Testing the software against the  software system as a whole.
  Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
-     Importance: Quality control measures such as code reviews automated testing, and continuous integration help identify and fix defects early in the development process, leading to higher-quality software products. 
+     Importance: Quality control measures such as code reviews, automated testing, and continuous integration help identify and fix defects early in the development process, leading to higher-quality software products. 
 
 #Part 2: Introduction to AI and Prompt Engineering
 
@@ -87,7 +89,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
   training data.
   Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
   Developer control - Prompt engineering gives developers more control over users' interactions with the AI.
-  Effective prompts provide intent and establish context to the large language models. 
+  Effective prompts provide intent and establish context for the large language models. 
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
